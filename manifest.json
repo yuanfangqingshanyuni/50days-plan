@@ -1,10 +1,11 @@
 {
   "name": "50天打卡",
   "short_name": "打卡",
-  "start_url": "./deepseek_html_20251110_360da5.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#2196F3",
   "theme_color": "#2196F3",
+  "assetlinks": "https://yuanfangqingshanyuni.github.io/50days-plan/assetlinks.json",
   "icons": [
     {
       "src": "icon-192.png",
