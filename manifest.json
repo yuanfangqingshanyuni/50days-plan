@@ -1,0 +1,20 @@
+{
+  "name": "50天打卡",
+  "short_name": "打卡",
+  "start_url": "./deepseek_html_20251110_360da5.html",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
